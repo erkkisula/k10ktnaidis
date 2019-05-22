@@ -1,0 +1,3 @@
+enum Type {
+    GLASS, PLASTIC, WOOD, CARDBOARD
+}
